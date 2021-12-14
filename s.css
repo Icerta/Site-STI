@@ -1,0 +1,23 @@
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display:inline;
+	display:inline-block;
+}
+span{
+margin-left: 50px;
+}
+nav{
+	display:inline;
+	display:inline-block;
+	text-align:center;
+}
+li{
+	display:inline;
+	display:inline-block;
+}
+body{
+	background: linear-gradient(white,white,grey,white, white);
+	cursor: all-scroll;
+}
